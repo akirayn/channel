@@ -198,10 +198,10 @@
       "name": "華語經典老歌"
     },
     {
-      "url": "https://www.youtube.com/watch?v=F-e6uYNayyY",
-      "name": "Top 50 Love Songs of All Time"
+      "url": "https://www.youtube.com/channel/UCr5u1WI4gqF9pPTK9Fc9QTA/live",
+      "name": "Pop Japan Music"
     },
-     {
+    {
       "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ/live",
       "name": "[J-POP] Avex 24/7 音楽ラジオ"
     },
@@ -214,8 +214,28 @@
       "name": "Lofi Girl Radio - Study Music"
     },
     {
+      "url": "https://www.youtube.com/watch?v=TtkFsfOP9QI",
+      "name": "Lofi Girl Piano - Study Music"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg/live",
+      "name": "作業用コーヒーBGM"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCJhjE7wbdYAae1G25m0tHAA/live",
+      "name": "Cafe Music BGM"
+    },
+    {
       "url": "https://www.youtube.com/channel/UCXKqVoc7khb8cg3ugfrih4g/live",
       "name": "Eight FM Malaysia"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=F-e6uYNayyY",
+      "name": "Top 50 Love Songs of All Time"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=g_5dHdQMxNY",
+      "name": "Backstreet Boys, Westlife, MLTR"
     },
     {
       "url": "https://www.youtube.com/watch?v=bzSfQ1I5-s8",
