@@ -114,11 +114,11 @@
       "name": "雍正王朝"
     },
     {
-      "url": "https://www.youtube.com/watch?v=3Pg7VxSjAr8",
+      "url": "https://www.youtube.com/watch?v=pbvUvfJ9lWk",
       "name": "布衣皇帝朱元璋"
     },
     {
-      "url": "https://www.youtube.com/watch?v=Njvo1ce2v90",
+      "url": "https://www.youtube.com/watch?v=H5CZX_YltSw",
       "name": "三國(2010)"
     },
     {
@@ -128,10 +128,6 @@
     {
       "url": "https://www.youtube.com/watch?v=I7yYOp7Tqdw",
       "name": "長歌行"
-    },
-    {
-      "url": "https://www.youtube.com/channel/UCyNixargb5VhzNV2URJRubA/live",
-      "name": "GPTV電影台 GaragePlay車庫娛樂"
     },
     {
       "url": "https://www.youtube.com/channel/UCnZDTHNQ77SqXOF-hKmLoXA/live",
@@ -150,16 +146,8 @@
       "name": "NBC2 Live Florida"
     },
     {
-      "url": "https://www.youtube.com/watch?v=-mvUkiILTqI",
-      "name": "ABC Latest Headline"
-    },
-    {
       "url": "https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live",
       "name": "ABC News"
-    },
-    {
-      "url": "https://www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA/live",
-      "name": "Fox News"
     },
     {
       "url": "https://www.youtube.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg/live",
@@ -206,6 +194,30 @@
       "name": "ABC News Australia"
     },
     {
+      "url": "https://www.youtube.com/channel/UCKNqRB5_JMYibQu4M8YyASQ/live",
+      "name": "華語經典老歌"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=F-e6uYNayyY",
+      "name": "Top 50 Love Songs of All Time"
+    },
+     {
+      "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ/live",
+      "name": "[J-POP] Avex 24/7 音楽ラジオ"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4FBW3mkdKOs",
+      "name": "アニソン24時間365日ラジオ Anileap"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jfKfPfyJRdk",
+      "name": "Lofi Girl Radio - Study Music"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCXKqVoc7khb8cg3ugfrih4g/live",
+      "name": "Eight FM Malaysia"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=bzSfQ1I5-s8",
       "name": "現代嘉慶君"
     },
@@ -216,8 +228,21 @@
     {
       "url": "https://www.youtube.com/watch?v=0aBJU1mFpsk",
       "name": "豬哥會社"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-mvUkiILTqI",
+      "name": "ABC Latest Headline"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA/live",
+      "name": "Fox News"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCyNixargb5VhzNV2URJRubA/live",
+      "name": "GPTV電影台 GaragePlay車庫娛樂"
     }
 
   ]
 }
+
 
