@@ -110,6 +110,10 @@
       "name": "步步驚心"
     },
     {
+      "url": "https://www.youtube.com/watch?v=eYH0kVLWzxM",
+      "name": "康熙王朝"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=JRcIQOGUpHE",
       "name": "雍正王朝"
     },
@@ -136,6 +140,31 @@
     {
       "url": "https://www.youtube.com/channel/UC1vZbSVKcH6kt8p6vQ1-1xw/live",
       "name": "57怪奇物語"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn17",
+      "name": "ofiii亞洲旅遊",
+      "ytdl-format": "bv*.2"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn11",
+      "name": "龍華日韓台"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn12",
+      "name": "龍華偶像台"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn18",
+      "name": "龍華戲劇台"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn03",
+      "name": "龍華電影台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Z4QKk1mST-4",
+      "name": "獵人HUNTER×HUNTER"
     },
     {
       "url": "https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live",
@@ -248,6 +277,10 @@
     {
       "url": "https://www.youtube.com/watch?v=0aBJU1mFpsk",
       "name": "豬哥會社"
+    },
+    {
+      "url": "",
+      "name": "＝＝＝＝＝＝ 分隔線 ＝＝＝＝＝"
     },
     {
       "url": "https://www.youtube.com/watch?v=-mvUkiILTqI",
