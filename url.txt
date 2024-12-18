@@ -110,11 +110,11 @@
       "name": "步步驚心"
     },
     {
-      "url": "https://www.youtube.com/watch?v=eYH0kVLWzxM",
+      "url": "https://www.youtube.com/watch?v=tf_6AEaEbEw",
       "name": "康熙王朝"
     },
     {
-      "url": "https://www.youtube.com/watch?v=JRcIQOGUpHE",
+      "url": "https://www.youtube.com/watch?v=bM87t_5w5d4",
       "name": "雍正王朝"
     },
     {
@@ -124,6 +124,10 @@
     {
       "url": "https://www.youtube.com/watch?v=H5CZX_YltSw",
       "name": "三國(2010)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5_wXPMwXuys",
+      "name": "偽裝者"
     },
     {
       "url": "https://www.youtube.com/watch?v=be6L9zpVqw4",
@@ -165,6 +169,11 @@
     {
       "url": "https://www.youtube.com/watch?v=Z4QKk1mST-4",
       "name": "獵人HUNTER×HUNTER"
+    },
+    {
+      "url": "https://hamivideo.hinet.net/channel/OTT_LIVE_0000002087.do",
+      "name": "Hami日漫台",
+      "header": "origin: https://hamivideo.hinet.net"
     },
     {
       "url": "https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live",
@@ -223,6 +232,13 @@
       "name": "ABC News Australia"
     },
     {
+      "url": "https://hamivideo.hinet.net/channel/OTT_LIVE_0000002089.do",
+      "name": "Hami體育台",
+      "ytdl-format": "best[tbr<5000]",
+      "volume": 0.8,
+      "header": "origin: https://hamivideo.hinet.net"
+    },
+    {
       "url": "https://www.youtube.com/channel/UCKNqRB5_JMYibQu4M8YyASQ/live",
       "name": "華語經典老歌"
     },
@@ -253,6 +269,14 @@
     {
       "url": "https://www.youtube.com/channel/UCJhjE7wbdYAae1G25m0tHAA/live",
       "name": "Cafe Music BGM"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=y6TZHLAzg5o",
+      "name": "Classical Piano & Fireplace"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4nMAbXow250",
+      "name": "Classical Music & Fireplace"
     },
     {
       "url": "https://www.youtube.com/channel/UCXKqVoc7khb8cg3ugfrih4g/live",
