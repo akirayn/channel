@@ -98,6 +98,11 @@
       "name": "天才衝衝衝"
     },
     {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn19",
+      "name": "Smart知識台",
+      "ytdl-format": "bv*.2"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=u1uU2AzsD0k",
       "name": "琅琊榜"
     },
@@ -152,19 +157,23 @@
     },
     {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn11",
-      "name": "龍華日韓台"
+      "name": "龍華日韓台",
+      "ytdl-format": "bv*.2"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn12",
-      "name": "龍華偶像台"
+      "name": "龍華偶像台",
+      "ytdl-format": "bv*.2"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn18",
-      "name": "龍華戲劇台"
+      "name": "龍華戲劇台",
+      "ytdl-format": "bv*.2"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn03",
-      "name": "龍華電影台"
+      "name": "龍華電影台",
+      "ytdl-format": "bv*.2"
     },
     {
       "url": "https://www.youtube.com/watch?v=Z4QKk1mST-4",
