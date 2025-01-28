@@ -103,12 +103,24 @@
       "ytdl-format": "bv*.2"
     },
     {
+      "url": "https://www.youtube.com/watch?v=73jwx5kCSqQ",
+      "name": "後宮甄嬛傳"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=hcxLMIfxi0A",
       "name": "知否知否應是綠肥紅瘦"
     },
     {
-      "url": "https://www.youtube.com/watch?v=nG73CyRTZpo",
-      "name": "步步驚心"
+      "url": "https://www.youtube.com/watch?v=LbJPtUgRwaE",
+      "name": "盛裝"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AT-PFiVI-DI",
+      "name": "琅琊榜"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCxGyAsGkYR8X4pAU5kDQy3A/live",
+      "name": "國際橋牌社"
     },
     {
       "url": "https://www.youtube.com/watch?v=tf_6AEaEbEw",
@@ -137,6 +149,10 @@
     {
       "url": "https://www.youtube.com/watch?v=I7yYOp7Tqdw",
       "name": "長歌行"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCCZpYLIklqO2iWekzJUPRng/live",
+      "name": "尚食"
     },
     {
       "url": "https://www.youtube.com/channel/UCnZDTHNQ77SqXOF-hKmLoXA/live",
@@ -319,10 +335,6 @@
     {
       "url": "",
       "name": "＝＝＝＝＝＝ 分隔線 ＝＝＝＝＝"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=u1uU2AzsD0k",
-      "name": "琅琊榜"
     },
     {
       "url": "https://www.youtube.com/watch?v=-mvUkiILTqI",
