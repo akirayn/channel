@@ -95,72 +95,89 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=UsZi0jxZHZ8",
-      "name": "天才衝衝衝"
+      "name": "天才衝衝衝",
+      "ytdl-format": "bv*.2+ba/a"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn19",
       "name": "Smart知識台",
-      "ytdl-format": "bv*.2"
+      "ytdl-format": "bv*.2+ba/a"
     },
     {
-      "url": "https://www.youtube.com/watch?v=73jwx5kCSqQ",
-      "name": "後宮甄嬛傳"
+      "url": "https://www.youtube.com/watch?v=EHHg8Gp837Y",
+      "name": "倩女幽魂"
     },
     {
-      "url": "https://www.youtube.com/watch?v=hcxLMIfxi0A",
+      "url": "https://www.youtube.com/watch?v=sS6SFAjW_mo",
       "name": "知否知否應是綠肥紅瘦"
     },
     {
-      "url": "https://www.youtube.com/watch?v=LbJPtUgRwaE",
-      "name": "盛裝"
+      "url": "https://www.youtube.com/watch?v=3elck_jxWQg",
+      "name": "羋月傳"
     },
     {
-      "url": "https://www.youtube.com/watch?v=AT-PFiVI-DI",
-      "name": "琅琊榜"
-    },
-    {
-      "url": "https://www.youtube.com/channel/UCxGyAsGkYR8X4pAU5kDQy3A/live",
-      "name": "國際橋牌社"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=tf_6AEaEbEw",
+      "url": "https://www.youtube.com/watch?v=f5q3hMoFNes",
       "name": "康熙王朝"
     },
     {
-      "url": "https://www.youtube.com/watch?v=bM87t_5w5d4",
+      "url": "https://www.youtube.com/watch?v=I4Tyo5KHmdM",
       "name": "雍正王朝"
     },
     {
-      "url": "https://www.youtube.com/watch?v=pbvUvfJ9lWk",
-      "name": "布衣皇帝朱元璋"
+      "url": "https://www.youtube.com/watch?v=TqvRG0Dct2o",
+      "name": "軍師聯盟+虎嘯龍吟"
     },
     {
-      "url": "https://www.youtube.com/watch?v=H5CZX_YltSw",
-      "name": "三國(2010)"
+      "url": "https://www.youtube.com/watch?v=y69hhdZjBFw",
+      "name": "-x-三國(2010)"
     },
     {
-      "url": "https://www.youtube.com/watch?v=5_wXPMwXuys",
-      "name": "偽裝者"
+      "url": "https://www.youtube.com/watch?v=jkF7cseHZ5s",
+      "name": "光陰的故事"
     },
     {
-      "url": "https://www.youtube.com/watch?v=be6L9zpVqw4",
-      "name": "去有風的地方"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=I7yYOp7Tqdw",
+      "url": "https://www.youtube.com/watch?v=gg-AF-RKviY",
       "name": "長歌行"
     },
     {
-      "url": "https://www.youtube.com/channel/UCCZpYLIklqO2iWekzJUPRng/live",
-      "name": "尚食"
+      "url": "https://www.youtube.com/watch?v=Q2TONcfhwjs",
+      "name": "紅樓夢"
     },
     {
-      "url": "https://www.youtube.com/channel/UCnZDTHNQ77SqXOF-hKmLoXA/live",
-      "name": "11點熱吵店 猛鬼系列"
+      "url": "https://www.youtube.com/watch?v=o2smudpPGjE",
+      "name": "去有風的地方"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eGmp6djsKws",
+      "name": "八零九零"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HcaK3-4iXi4",
+      "name": "雷霆掃毒"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KbqR2QnysKE",
+      "name": "The Lord of the Rings"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mQlUejpK6eE",
+      "name": "Harry Potter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Gt7hJNllftE",
+      "name": "驚聲尖笑"
     },
     {
       "url": "https://www.youtube.com/channel/UC1vZbSVKcH6kt8p6vQ1-1xw/live",
       "name": "57怪奇物語"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nLi9sJV_SSU",
+      "name": "11點熱吵店 猛鬼系列"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCnZDTHNQ77SqXOF-hKmLoXA/live",
+      "name": "11點熱吵店"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv076",
@@ -193,8 +210,20 @@
       "ytdl-format": "bv*.2"
     },
     {
-      "url": "https://www.youtube.com/watch?v=Z4QKk1mST-4",
-      "name": "獵人HUNTER×HUNTER"
+      "url": "https://www.youtube.com/watch?v=E4_v6Hm7FiM",
+      "name": "葬送的芙莉蓮"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=demSSDkkIrM",
+      "name": "BanG Dream! It's MyGO!!!!! Ave Mujica"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4Jszpdlddew",
+      "name": "科學超電磁砲S1-S2"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=g4zpC0WfNx4",
+      "name": "進擊的巨人"
     },
     {
       "url": "https://hamivideo.hinet.net/channel/OTT_LIVE_0000002087.do",
@@ -337,12 +366,29 @@
       "name": "＝＝＝＝＝＝ 分隔線 ＝＝＝＝＝"
     },
     {
+      "url": "https://www.youtube.com/channel/UCi2GvcaxZCN-61a0co8Smnw/live",
+      "name": "館長惡名昭彰",
+      "ytdl-format": "b*.2+ba/b"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=-mvUkiILTqI",
       "name": "ABC Latest Headline"
     },
     {
       "url": "https://www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA/live",
       "name": "Fox News"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LbJPtUgRwaE",
+      "name": "盛裝"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AT-PFiVI-DI",
+      "name": "琅琊榜"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCxGyAsGkYR8X4pAU5kDQy3A/live",
+      "name": "國際橋牌社"
     },
     {
       "url": "https://www.youtube.com/channel/UCyNixargb5VhzNV2URJRubA/live",
