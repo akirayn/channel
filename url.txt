@@ -116,6 +116,10 @@
       "name": "羋月傳"
     },
     {
+      "url": "https://www.youtube.com/watch?v=0NU5M2OGKl8",
+      "name": "步步驚心"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=f5q3hMoFNes",
       "name": "康熙王朝"
     },
@@ -128,8 +132,8 @@
       "name": "軍師聯盟+虎嘯龍吟"
     },
     {
-      "url": "https://www.youtube.com/watch?v=y69hhdZjBFw",
-      "name": "-x-三國(2010)"
+      "url": "https://www.youtube.com/watch?v=Gyh2yQhwPUg",
+      "name": "三國(2010)"
     },
     {
       "url": "https://www.youtube.com/watch?v=jkF7cseHZ5s",
@@ -271,6 +275,10 @@
       "name": "日テレNEWS"
     },
     {
+      "url": "https://www.youtube.com/watch?v=-C6FE2m7kX8",
+      "name": "メ〜テレニュース(名古屋)"
+    },
+    {
       "url": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live",
       "name": "Sky News"
     },
@@ -292,6 +300,10 @@
       "ytdl-format": "best[tbr<5000]",
       "volume": 0.8,
       "header": "origin: https://hamivideo.hinet.net"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCCQvP4hsRW9emj0meGk15jg/live",
+      "name": "愛爾達體育家族"
     },
     {
       "url": "https://www.youtube.com/channel/UCKNqRB5_JMYibQu4M8YyASQ/live",
